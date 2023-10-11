@@ -4,8 +4,8 @@ const person = {
   name: "John Doe",
   age: 80,
 };
-// const team = players;
-// const team1 = players;
+const team = players;
+const team1 = players;
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
