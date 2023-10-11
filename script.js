@@ -6,7 +6,7 @@ const person = {
 };
 const team = players;
 const team1 = [...players];
-const cap1 = Object.assign({}, car);
+const cap1 = Object.assign({}, person);
 
 
 
